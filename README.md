@@ -10,3 +10,6 @@ b. Bar chart of the top 10 bacteria cultures found
 c. Indicator chart of belly button washing frequency
 
 d. Bubble chart of bacteria cultures per sample
+
+
+The Dashboard can be viewd at https://shikharbhd.github.io/plotly_belly_button/
